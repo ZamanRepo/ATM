@@ -1,0 +1,8 @@
+Case Study from © 2012 Pearson Education, Inc., Upper Saddle River, NJ. All Rights Reserved.
+
+The Java files are taken from the following public repository:
+
+
+https://github.com/VictorFantucci/ATM_System
+
+Thanks to the Author!
